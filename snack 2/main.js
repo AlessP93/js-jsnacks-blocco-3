@@ -14,7 +14,7 @@ for (let i = 0; i < N; i++) {
         number.push(Math.floor(Math.random() * 100) + 1); 
         
     }
+    // ogni array creato viene stamapto in console
     console.log(number)
 }
 
-// ogni array creato viene stamapto in console
